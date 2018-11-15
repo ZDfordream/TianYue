@@ -1,6 +1,8 @@
 # 天阅
 
 天阅是一款使用 MVP + Retrofit2 + Rxjava + dagger2 等框架开发的阅读软件。包括新闻、视频、煎蛋三个模块，项目的大部分功能已经完成。
+另有 [ReactNative版本](https://github.com/ZDfordream/TianYue-ReactNative)
+     [Kotilin版本](https://github.com/ZDfordream/TianYueKotlin)
 
 ## 截图
 
